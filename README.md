@@ -1,0 +1,2 @@
+# robosdoidos
+opensource ai automatizado
